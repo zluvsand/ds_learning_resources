@@ -76,13 +76,12 @@ These are all available on Apple Podcast except for the last one:
 ## Online content by Ivy League universities :mortar_board:
 ### [Harvard Online Data Science Courses](https://online-learning.harvard.edu/subject/data-science)
 - [x] [CS50 by Harvard](https://www.youtube.com/watch?v=gs4Sb4ar4qw&list=PLhQjrBD2T380ntcBDFlEfDCsYISod_jHy)  :yellow_heart: 
-- [ ] [CS109 Data Science](http://cs109.github.io/2015/pages/videos.html)
-- [ ] [Calculus Applied](https://online-learning.harvard.edu/course/calculus-applied?delta=1)
 - [ ] [Data Science: Inference and Modeling](https://www.edx.org/course/data-science-inference-and-modeling)
 - [ ] [Data Science: Machine Learning](https://online-learning.harvard.edu/course/data-science-machine-learning?delta=2)
 - [ ] [Data Science: Visualisation](https://online-learning.harvard.edu/course/data-science-visualization?delta=2)
 - [ ] [Data Science: Probability](https://www.edx.org/course/data-science-probability)
 - [ ] [Principles, Statistical and Computational Tools for Reproducible Data Science](https://www.edx.org/course/principles-statistical-and-computational-tools-for)
+- [ ] [Calculus Applied](https://online-learning.harvard.edu/course/calculus-applied?delta=1)
 
 ### MITOPENCOURSEWARE
 - [x] [Linear algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)  :yellow_heart: 
