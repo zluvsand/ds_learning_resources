@@ -25,10 +25,11 @@ These are all available on Apple Podcast except for the last one:
 * [Towards Data Science](https://towardsdatascience.com/podcast/home)
 * [Linear Digressions](http://lineardigressions.com/)
 * [DataFramed](https://www.datacamp.com/community/podcast)
-* [Chai Time Data Science](https://www.youtube.com/c/ChaiTimeDataScience)
+* [Data Skeptic](https://dataskeptic.com/)
 
 ## Blogs :notebook:
-* [Andrej Karpathy Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+* [Andrej Karpathy's blog](http://karpathy.github.io/)   
+  (_[Andrej Karpathy Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)_)
 * [Zac Stewart Blog](https://zacstewart.com/)
 
 ## Online courses :computer:
