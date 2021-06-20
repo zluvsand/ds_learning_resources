@@ -114,3 +114,11 @@ These are all available on Apple Podcast except for the last one:
 - [ ] [Useful Git commands](https://docs.gitlab.com/ee/topics/git/useful_git_commands.html)
 - [ ] [GitHub Guides](https://guides.github.com/)
 - [ ] [GitHub Learning Lab](https://lab.github.com/)
+
+## Other miscellaneous ML-related resources
+- [ ] [Teachable Machine](https://teachablemachine.withgoogle.com/)
+- [ ] [Quick, Draw!](https://quickdraw.withgoogle.com/)
+- [ ] [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/)
+- [ ] [Machine Learning Playground](https://ml-playground.com/)
+- [ ] [Elements of AI](https://www.elementsofai.com/)
+- [ ] [A Neural Network Playground](https://playground.tensorflow.org)
