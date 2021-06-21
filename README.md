@@ -67,7 +67,8 @@ These are all available on Apple Podcast except for the last one:
 - [x] [Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/) by Jose Portilla :yellow_heart: 
 - [x] [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) by Jose Portilla
 - [x] [The Complete SQL Bootcamp 2020: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/) by Jose Portilla
-- [ ] [NLP - Natural Language Processing with Python](https://www.udemy.com/course/nlp-natural-language-processing-with-python/) by Jose Portilla
+- [x] [NLP - Natural Language Processing with Python](https://www.udemy.com/course/nlp-natural-language-processing-with-python/) by Jose Portilla
+- [x] [TensorFlow Developer Certificate in 2021: Zero to Mastery](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/) by Daniel Bourke
 
 ### edX
 - [ ] [Data Science Essentials](https://www.edx.org/course/data-science-essentials)
