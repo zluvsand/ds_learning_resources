@@ -123,3 +123,6 @@ These are all available on Apple Podcast except for the last one:
 - [ ] [Machine Learning Playground](https://ml-playground.com/)
 - [ ] [Elements of AI](https://www.elementsofai.com/)
 - [ ] [A Neural Network Playground](https://playground.tensorflow.org)
+- [ ] [What is a Convolutional Neural Network?](https://poloclub.github.io/cnn-explainer/)
+- [ ] [Activation Functions](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
+- [ ] [Papers with code](https://www.paperswithcode.com/)
