@@ -18,6 +18,7 @@ The exceptional resources are accompanied by :yellow_heart:.
 - [x] [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 - [ ] [Pro Git](https://git-scm.com/book/en/v2)
 - [ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
+- [ ] [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php)
  
 ## Podcasts :headphones:
 These are all available on Apple Podcast except for the last one:
@@ -68,7 +69,7 @@ These are all available on Apple Podcast except for the last one:
 - [x] [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) by Jose Portilla
 - [x] [The Complete SQL Bootcamp 2020: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/) by Jose Portilla
 - [x] [NLP - Natural Language Processing with Python](https://www.udemy.com/course/nlp-natural-language-processing-with-python/) by Jose Portilla
-- [x] [TensorFlow Developer Certificate in 2021: Zero to Mastery](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/) by Daniel Bourke
+- [x] [TensorFlow Developer Certificate in 2021: Zero to Mastery](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/) by Daniel Bourke :yellow_heart: 
 
 ### edX
 - [ ] [Data Science Essentials](https://www.edx.org/course/data-science-essentials)
