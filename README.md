@@ -127,3 +127,4 @@ These are all available on Apple Podcast except for the last one:
 - [ ] [What is a Convolutional Neural Network?](https://poloclub.github.io/cnn-explainer/)
 - [ ] [Activation Functions](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
 - [ ] [Papers with code](https://www.paperswithcode.com/)
+- [ ] [sotabench](https://sotabench.com/)
