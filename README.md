@@ -19,7 +19,9 @@ The exceptional resources are accompanied by :yellow_heart:.
 - [ ] [Pro Git](https://git-scm.com/book/en/v2)
 - [ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
 - [ ] [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php)
- 
+- [ ] [Forecasting Principles and Practice](https://otexts.com/fpp3/)
+- [ ] [Deep Learning with Structured Data](https://www.manning.com/books/deep-learning-with-structured-data?query=deep%20learning%20with%20structured%20data)
+
 ## Podcasts :headphones:
 These are all available on Apple Podcast except for the last one:
 * [Lex Fridman Podcast](https://lexfridman.com/podcast/) 
@@ -128,3 +130,4 @@ These are all available on Apple Podcast except for the last one:
 - [ ] [Activation Functions](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
 - [ ] [Papers with code](https://www.paperswithcode.com/)
 - [ ] [sotabench](https://sotabench.com/)
+- [ ] [Image kernels](https://setosa.io/ev/image-kernels/)
