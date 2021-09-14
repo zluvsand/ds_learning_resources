@@ -95,7 +95,7 @@ These are all available on Apple Podcast except for the last one:
 
 ### Standford
 - [ ] [From Languages to Information](http://web.stanford.edu/class/cs124/)
-- [ ] [Deep Learning for Natural Langue Processing](https://www.youtube.com/watch?v=kZteabVD8sU&list=PLcGUo322oqu9n4i0X3cRJgKyVy7OkDdoi&index=1)
+- [ ] [Deep Learning for Natural Language Processing](https://www.youtube.com/watch?v=kZteabVD8sU&list=PLcGUo322oqu9n4i0X3cRJgKyVy7OkDdoi&index=1)
 
 ### Others
 - [ ] [Machine Learning](http://work.caltech.edu/telecourse)
