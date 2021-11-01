@@ -21,6 +21,7 @@ The exceptional resources are accompanied by :yellow_heart:.
 - [ ] [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php)
 - [ ] [Forecasting Principles and Practice](https://otexts.com/fpp3/)
 - [ ] [Deep Learning with Structured Data](https://www.manning.com/books/deep-learning-with-structured-data?query=deep%20learning%20with%20structured%20data)
+- [ ] [Counterfactuals and Causal Inference: Methods And Principles For Social Research (Analytical Methods for Social Research)](https://edisciplinas.usp.br/pluginfile.php/3984640/mod_resource/content/2/%5BStephen_L._Morgan%2C_Christopher_Winship%5D_Counterfa%28BookFi.org%29%20%281%29%281%29.pdf)
 
 ## Podcasts :headphones:
 These are all available on Apple Podcast except for the last one:
